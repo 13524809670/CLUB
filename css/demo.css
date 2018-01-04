@@ -33,6 +33,7 @@ body{
 	z-index: 999;
 	transition:0.3s;
 }
+
 /*导航*/
 
 
@@ -58,7 +59,7 @@ body{
 	transition:0.3s;
 }
 .btn1{
-	width:6%;
+	width:7.5%;
 	z-index: 10;
 }
 .btn2{
@@ -126,6 +127,7 @@ body{
 	margin-left:-20%;
 	z-index: 9999;
 	color:#fff;
+	transition:0.3s;
 }
 .bottom,.car_wrap .top{
 	font-size: 0.2rem;
@@ -140,7 +142,7 @@ body{
 .car_wrap .top{
 	color:#333 !important;
 }
-
+.swiper-pagination{transition:0.3s;}
 
 
 /*张学友轮播图*/
