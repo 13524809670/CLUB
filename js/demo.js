@@ -6,7 +6,7 @@ $(function(){
 	
 	$('body').css('overflow-x','hidden');
 	// 缩小
-	$('.btn1').bind('click',function(){
+	$('.btn1 img').bind('click',function(){
 		$('.mask').addClass('mask-css3');
 		$('.wrap').addClass('wrap-css3');
 		$('.logo').addClass('logo-css3');
