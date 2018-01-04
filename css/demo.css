@@ -160,8 +160,12 @@ body{
 	width:100%;
 }
 .car_wrap .sw_con h1{
-	font-size:0.12rem;
+	width:100%;
+	font-size:0.11rem;
+	height: 0.2rem;
 	line-height: 1.5;
+	text-align: left;
+	overflow: hidden;
 }
 .car_wrap .sw_con p{
 	font-size: 0.1rem;
