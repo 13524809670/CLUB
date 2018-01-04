@@ -164,10 +164,7 @@ body{
 	font-size:0.11rem;
 	height: 0.2rem;
 	line-height: 1.5;
-	text-align: left;
 	overflow: hidden;
-	/*text-overflow:ellipsis;
-	white-space: nowrap;*/
 }
 .car_wrap .sw_con p{
 	font-size: 0.1rem;
